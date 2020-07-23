@@ -45,24 +45,7 @@ class PostData {
                     type = PostTypes.YoutubeVideo
                 )
             )
-            list.add(
-                Post(
-                    14,
-                    1594585699570,
-                    "Мартынов Я.В.",
-                    "https://sun1-30.userapi.com/c631531/v631531139/5b0f/t3HG4Ql5dRc.jpg",
-                    0,
-                    12,
-                    5,
-                    isLike = false,
-                    isComment = false,
-                    isShare = false,
-                    adress = "Проспект Королева дом 5",
-                    coordinates = Pair(55.921606, 37.841268),
-                    type = PostTypes.SponsoredPosts,
-                    url = "https://vk.com/night_ghostss"
-                )
-            )
+
             list.add(
                 Post(
                     14,

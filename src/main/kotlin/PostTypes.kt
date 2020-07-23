@@ -1,3 +1,3 @@
 enum class PostTypes {
-    Events, Reposts, YoutubeVideo, SponsoredPosts
+    Events, Reposts, YoutubeVideo
 }
